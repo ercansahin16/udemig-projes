@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 200,
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true,
+    "liveServer.settings.port": 5500,
+    "vscode-edge-devtools.port": 5500,
+    "remote.otherPortsAttributes": {
+        "onAutoForward": "openbrowser"
+    }
